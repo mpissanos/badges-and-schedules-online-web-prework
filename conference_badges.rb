@@ -7,4 +7,4 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms()
-  names.each_with_index { 
+  names.each_with_index { "Hello,  You'll be assigned to room #{i}!"}
