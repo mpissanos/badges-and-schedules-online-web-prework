@@ -9,7 +9,8 @@ end
 def assign_rooms(names)
  room_arr = []
   names.each_with_index {|name , i|  }
-  return room_arr.push("Hello,#{name}! You'll be assigned to room #{i}!")
+  room_arr.push("Hello,#{name}! You'll be assigned to room #{i}!")
+  return room_arr
 end
 
   
