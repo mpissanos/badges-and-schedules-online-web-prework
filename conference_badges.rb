@@ -10,5 +10,7 @@ def assign_rooms(names)
   names.map.with_index {|name , index| "Hello, #{name}! You'll be assigned to room #{index + 1}!" }
 end
 
-def printer()
+def printer(names)
+  puts assign_rooms.each 
+  puts batch_badge_creator
 end
