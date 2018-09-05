@@ -4,4 +4,4 @@ end
 
 def batch_badge_creator(names)
   badge_arr = []
-  
+  names.each do 
