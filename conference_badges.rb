@@ -7,4 +7,4 @@ def batch_badge_creator(names)
 end
 
 def assign_rooms()
-  names.each_
+  names.each_with
