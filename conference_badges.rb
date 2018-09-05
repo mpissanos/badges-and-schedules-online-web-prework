@@ -5,3 +5,5 @@ end
 def batch_badge_creator(names)
   names.map { |i| "Hello, my name is #{i}."}
 end
+
+def 
